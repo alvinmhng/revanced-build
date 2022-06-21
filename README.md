@@ -22,4 +22,5 @@ By default this will build ReVanced with ALL available patches. You can modify t
 2. Run the workflow
 3. Download the APKs from the draft releases ([Example](images/build_release.png))
 
-
+## Reddit
+[Link to post](https://reddit.com/r/revancedapp/comments/vcwd9i/github_template_to_build_zipalign_and_sign/)
